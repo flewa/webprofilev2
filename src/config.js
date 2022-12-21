@@ -1,6 +1,6 @@
 var config = {
     "Name":"flew",
-    "ProfileUrl":"https://icon-library.com/images/discord-icon-white/discord-icon-white-3.jpg",
+    "ProfileUrl":"https://icon-library.com/images/black-discord-icon/black-discord-icon-19.jpg",
     "ProfileIcons":[
         ["github","https://github.com/flewa"],
         ["discord","https://discord.gg/w5ZuHPg3zz"]
